@@ -10,7 +10,7 @@
 🎯 Atualmente focado em desenvolvimento com **Python** para automação, dados e backend.
 
 🧠 Estudando e praticando com:
-- 🐍 Python (orientado a objetos, scripts, automação)
+- 🐍 Python
 - 🗃️ Banco de Dados (SQL)
 - 🛠️ Git e GitHub (controle de versão)
 - 📈 Análise de dados
